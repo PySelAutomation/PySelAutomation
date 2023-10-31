@@ -1,4 +1,4 @@
-# Function without arguments
+# Function without argumentssss
 def greet():
     print(" I am in greet function")
     print("Hello, world!")
