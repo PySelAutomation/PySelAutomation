@@ -12,7 +12,7 @@ print(f"String Variables: name = {name}, greeting = {greeting}")
 # List variables
 numbers = [1, 2, 3, 4, 5]
 fruits = ["apple", "banana", "cherry"]
-print(f"List Variables: numbers = {numbers}, fruits = {fruits}")
+print(f"List Variables: numbers = {numbers[2]}, fruits = {fruits}")
 
 # Tuple variables
 coordinates = (3, 4)  # Represents a point in 2D space
