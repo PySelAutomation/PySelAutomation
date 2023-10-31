@@ -31,5 +31,6 @@ def main():
     for index, item in enumerate(items):
         print(f"Index: {index}, Value: {item}")
 
-if __name__ == "__main":
+
+if __name__ == "__main__":
     main()

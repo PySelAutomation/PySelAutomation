@@ -1,4 +1,3 @@
-# if Statement
 age = 20
 if age >= 18:
     print("You are an adult.")
@@ -55,26 +54,3 @@ if x > 0 and x % 2 == 0:
     print("x is a positive even number.")
 
 
-
-def get_day_name(day):
-    match day:
-        case 1:
-            return "Monday"
-        case 2:
-            return "Tuesday"
-        case 3:
-            return "Wednesday"
-        case 4:
-            return "Thursday"
-        case 5:
-            return "Friday"
-        case 6:
-            return "Saturday"
-        case 7:
-            return "Sunday"
-        case _:
-            return "Invalid day"
-
-day_number = 3
-day_name = get_day_name(day_number)
-print(f"Day {day_number} is {day_name}")

@@ -1,0 +1,10 @@
+Write a Python program to print all the numbers from 1 to 10 using a for loop.
+
+Multiplication Table:
+Create a program that takes an input number and prints its multiplication table (up to 10) using a for loop.
+
+Sum of Numbers:
+Write a Python program to calculate and print the sum of all the numbers from 1 to 100 using a for loop.
+
+Print Even Numbers:
+Use a for loop to print all the even numbers between 1 and 20.
